@@ -1,4 +1,5 @@
-# io-Solita
+#io-Solita
+
 i3gaps Configuration
 
 https://github.com/romkatv/powerlevel10k
