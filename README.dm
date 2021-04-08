@@ -1,7 +1,7 @@
 # io-Solita
 i3gaps Configuration
 
-github.com/romkatv/powerlevel10k
+https://github.com/romkatv/powerlevel10k
 
 https://github.com/siduck76/neovim-dots
 
