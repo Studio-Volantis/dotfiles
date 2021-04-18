@@ -2,6 +2,9 @@
 
 i3gaps Configuration
 
+[## wal or pywal for bg to scheme color ##]
+KDE 
+
 https://github.com/romkatv/powerlevel10k
 
 https://github.com/siduck76/neovim-dots
