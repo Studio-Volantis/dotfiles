@@ -1,4 +1,12 @@
 #io-Solita
+i3wm
+
+APPLICATIONS
+
+Polybar - https://github.com/adi1090x/polybar-themes#material
+Terminator
+Vivaldi
+
 
 i3gaps Configuration
 
