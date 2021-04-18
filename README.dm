@@ -5,6 +5,8 @@ INSPIRATION
 
 https://www.reddit.com/r/unixporn/comments/mt9oy0/awesome_featuring_bling_awestore_and_layoutmachi/
 
+https://www.reddit.com/r/unixporn/comments/msovw1/i3gaps_playing_around_with_blur_instead_of/
+
 APPLICATIONS
 
 Polybar - https://github.com/adi1090x/polybar-themes#material
