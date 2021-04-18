@@ -1,6 +1,10 @@
 #io-Solita
 i3wm
 
+INSPIRATION
+
+https://www.reddit.com/r/unixporn/comments/mt9oy0/awesome_featuring_bling_awestore_and_layoutmachi/
+
 APPLICATIONS
 
 Polybar - https://github.com/adi1090x/polybar-themes#material
