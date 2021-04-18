@@ -3,6 +3,9 @@
 i3gaps Configuration
 
 [## wal or pywal for bg to scheme color ##]
+
+https://imgur.com/t/unixporn/0CGGZI
+
 KDE 
 
 https://github.com/romkatv/powerlevel10k
