@@ -8,4 +8,4 @@
 
 /* Import color-scheme from `colors` directory */
 
-@import "~/.config/rofi/colors/warlock.rasi"
+@import "~/.config/rofi/colors/warlock-colors.rasi"
