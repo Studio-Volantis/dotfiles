@@ -1,0 +1,21 @@
+/**
+ *
+ * Author : Daniel Haulsey 
+ * Github : @Studio-Volantis
+ * 
+ * Colors
+ **/
+
+* {
+    background-color:            transparent;
+    background:                  #2a2d33;
+    background-transparent:      #2a2d33F2;
+    background-alt:              #26282C;
+    text-color:                  #CFD8DC;
+    foreground:                  #CFD8DC;
+    selected:                    #5E9085;
+    primamry:                    #5E9085;
+    active:                      #f3d07e;
+    secondary:                   #f3d07e;
+    urgent:                      #ff5874;
+}
